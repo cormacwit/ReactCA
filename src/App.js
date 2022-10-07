@@ -32,7 +32,7 @@ const App = () => {
         noPracticals: 3
     }
    ];
-  const name = "HDip Computer Systems" // Substitute
+  const name = "HDip Computer Systems" 
 
   return (
     <>
